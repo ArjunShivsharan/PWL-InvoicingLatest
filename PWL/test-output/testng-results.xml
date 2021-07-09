@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-09T12:33:52 IST" name="Default suite" finished-at="2021-07-09T12:35:45 IST" duration-ms="112953">
+    <groups>
+    </groups>
+    <test started-at="2021-07-09T12:33:52 IST" name="Default test" finished-at="2021-07-09T12:35:45 IST" duration-ms="112953">
+      <class name="com.org.testcases.BookingActivityPageTest">
+        <test-method is-config="true" signature="setUpSuite()[pri:0, instance:com.org.testcases.BookingActivityPageTest@2b6faea6]" started-at="2021-07-09T12:33:51 IST" name="setUpSuite" finished-at="2021-07-09T12:33:52 IST" duration-ms="619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.org.testcases.BookingActivityPageTest@2b6faea6]" started-at="2021-07-09T12:33:52 IST" name="setUp" finished-at="2021-07-09T12:33:59 IST" duration-ms="6675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginApp()[pri:1, instance:com.org.testcases.BookingActivityPageTest@2b6faea6]" started-at="2021-07-09T12:33:59 IST" name="loginApp" finished-at="2021-07-09T12:34:02 IST" duration-ms="3327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method signature="searchItemTest()[pri:2, instance:com.org.testcases.BookingActivityPageTest@2b6faea6]" started-at="2021-07-09T12:34:02 IST" name="searchItemTest" finished-at="2021-07-09T12:34:13 IST" duration-ms="10712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItemTest -->
+        <test-method signature="invoiceSearchTextBoxStringDataTest()[pri:3, instance:com.org.testcases.BookingActivityPageTest@2b6faea6]" started-at="2021-07-09T12:34:13 IST" name="invoiceSearchTextBoxStringDataTest" finished-at="2021-07-09T12:34:14 IST" duration-ms="972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoiceSearchTextBoxStringDataTest -->
+        <test-method signature="invoiceSearchTextBoxIntegerDataTest()[pri:4, instance:com.org.testcases.BookingActivityPageTest@2b6faea6]" started-at="2021-07-09T12:34:14 IST" name="invoiceSearchTextBoxIntegerDataTest" finished-at="2021-07-09T12:34:26 IST" duration-ms="12491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoiceSearchTextBoxIntegerDataTest -->
+        <test-method signature="SearchTextBoxBlankDataTest()[pri:5, instance:com.org.testcases.BookingActivityPageTest@2b6faea6]" started-at="2021-07-09T12:34:26 IST" name="SearchTextBoxBlankDataTest" finished-at="2021-07-09T12:34:35 IST" duration-ms="8433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTextBoxBlankDataTest -->
+        <test-method signature="invoiceSearchTextBoxSpecialCharacterTest()[pri:6, instance:com.org.testcases.BookingActivityPageTest@2b6faea6]" started-at="2021-07-09T12:34:35 IST" name="invoiceSearchTextBoxSpecialCharacterTest" finished-at="2021-07-09T12:34:36 IST" duration-ms="872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoiceSearchTextBoxSpecialCharacterTest -->
+        <test-method signature="invoiceSearchTextBoxCorrectDataTest()[pri:7, instance:com.org.testcases.BookingActivityPageTest@2b6faea6]" started-at="2021-07-09T12:34:36 IST" name="invoiceSearchTextBoxCorrectDataTest" finished-at="2021-07-09T12:34:41 IST" duration-ms="5179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoiceSearchTextBoxCorrectDataTest -->
+        <test-method signature="generateInvoiceTest()[pri:8, instance:com.org.testcases.BookingActivityPageTest@2b6faea6]" started-at="2021-07-09T12:34:41 IST" name="generateInvoiceTest" finished-at="2021-07-09T12:35:17 IST" duration-ms="36665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateInvoiceTest -->
+        <test-method signature="generateCreditNotesTest()[pri:9, instance:com.org.testcases.BookingActivityPageTest@2b6faea6]" started-at="2021-07-09T12:35:17 IST" name="generateCreditNotesTest" finished-at="2021-07-09T12:35:45 IST" duration-ms="27555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateCreditNotesTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.org.testcases.BookingActivityPageTest@2b6faea6]" started-at="2021-07-09T12:35:45 IST" name="tearDown" finished-at="2021-07-09T12:35:45 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.org.testcases.BookingActivityPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
